@@ -140,6 +140,11 @@ nav a img {
 
 
 /*--about- descripcion de los productos--*/
+
+.comingsoon {
+	text-align: center;
+	font-size: 60px;
+}
 .about {
     padding: 5em 0px 4em 0px;
 }
